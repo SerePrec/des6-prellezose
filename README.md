@@ -26,4 +26,4 @@ Para levantarlo en modo de desarrollo junto a nodemon, utilizar `npm run dev`. D
 
 ### Deploy en Heroku (Temporal):
 
-https://entrega1-prellezose.herokuapp.com
+https://des6-prellezose.herokuapp.com
