@@ -24,6 +24,6 @@ Añadiremos al proyecto un canal de chat entre los clientes y el servidor.
 Luego de clonar o descargar el repositorio e instalar todas las dependencias con `npm install`, existen dos comandos para levantar el proyecto.
 Para levantarlo en modo de desarrollo junto a nodemon, utilizar `npm run dev`. De lo contrario, para ejecutarlo en "modo producción", utilizar `npm start`
 
-### Deploy en Heroku (Temporal):
+### Deploy en Heroku (temporal):
 
 https://des6-prellezose.herokuapp.com
